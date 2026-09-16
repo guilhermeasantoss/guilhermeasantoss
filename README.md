@@ -100,7 +100,7 @@
 
 <br>
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <picture>
